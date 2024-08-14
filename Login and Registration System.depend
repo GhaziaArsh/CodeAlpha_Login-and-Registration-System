@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1723628801 source:c:\users\pmls\desktop\login and registration system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1723629707 source:c:\users\pmls\desktop\c++ tasks\login and registration system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdexcept>
+
